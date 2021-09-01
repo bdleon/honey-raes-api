@@ -71,6 +71,16 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 3,
+            "name": "Pauline Balistreri",
+            "specialty": "Printers"
+        },
+        {
+            "id": 4,
+            "name": "Susan Ondricka V",
+            "specialty": "Printers"
         }
     ],
     "serviceTickets": [
